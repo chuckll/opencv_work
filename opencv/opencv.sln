@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3-HighGui", "opencv\opencv.vcxproj", "{67248793-352C-4833-A354-5FB3F7B00E78}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1-Examples", "..\1-5-2\1-5-2\1-5-2.vcxproj", "{41E4B39B-E6EF-41A3-86D6-2BF487179F96}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1-examples", "..\1-5-2\1-5-2\1-5-2.vcxproj", "{41E4B39B-E6EF-41A3-86D6-2BF487179F96}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4-draw", "4-cvColor\4-cvColor.vcxproj", "{481D7119-B1F2-45C0-8657-C1A164D261EF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "core", "core\core.vcxproj", "{B41192E9-BB23-4491-8168-E14639453937}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +23,14 @@ Global
 		{41E4B39B-E6EF-41A3-86D6-2BF487179F96}.Debug|Win32.Build.0 = Debug|Win32
 		{41E4B39B-E6EF-41A3-86D6-2BF487179F96}.Release|Win32.ActiveCfg = Release|Win32
 		{41E4B39B-E6EF-41A3-86D6-2BF487179F96}.Release|Win32.Build.0 = Release|Win32
+		{481D7119-B1F2-45C0-8657-C1A164D261EF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{481D7119-B1F2-45C0-8657-C1A164D261EF}.Debug|Win32.Build.0 = Debug|Win32
+		{481D7119-B1F2-45C0-8657-C1A164D261EF}.Release|Win32.ActiveCfg = Release|Win32
+		{481D7119-B1F2-45C0-8657-C1A164D261EF}.Release|Win32.Build.0 = Release|Win32
+		{B41192E9-BB23-4491-8168-E14639453937}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B41192E9-BB23-4491-8168-E14639453937}.Debug|Win32.Build.0 = Debug|Win32
+		{B41192E9-BB23-4491-8168-E14639453937}.Release|Win32.ActiveCfg = Release|Win32
+		{B41192E9-BB23-4491-8168-E14639453937}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
