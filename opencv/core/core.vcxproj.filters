@@ -21,5 +21,14 @@
     <ClCompile Include="mix.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="splitMerge.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ContrastAndBright.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="magnitude.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
