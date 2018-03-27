@@ -77,8 +77,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BilateralFilter.cpp" />
+    <ClCompile Include="blur.cpp" />
+    <ClCompile Include="boxFilter.cpp" />
     <ClCompile Include="ContrastAndBright.cpp" />
+    <ClCompile Include="GaussianBlur.cpp" />
     <ClCompile Include="magnitude.cpp" />
+    <ClCompile Include="MedianBlur.cpp" />
     <ClCompile Include="mix.cpp" />
     <ClCompile Include="reduceColor.cpp" />
     <ClCompile Include="splitMerge.cpp" />
