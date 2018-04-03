@@ -36,5 +36,14 @@
     <ClCompile Include="MorphologyEx.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="resize.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pryUp.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pyrDown.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
