@@ -18,5 +18,14 @@
     <ClCompile Include="canny.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="sobel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="laplacian.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scharr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
